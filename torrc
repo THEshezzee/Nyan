@@ -3,6 +3,6 @@ DataDirectory /var/lib/tor
 
 UseBridges 1 
 bridge # Bridge here 
-SocksPort 0.0.0.0:9150
+SocksPort 0.0.0.0:9050
 Log notice stdout
 
